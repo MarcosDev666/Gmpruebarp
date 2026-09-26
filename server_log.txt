@@ -1,0 +1,845 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:10:56] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:11:21] 
+[09:11:21] Server Plugins
+[09:11:21] --------------
+[09:11:21]  Loading plugin: mysql.dll
+[09:11:22]  >> plugin.mysql: R41-4 successfully loaded.
+[09:11:22]   Loaded.
+[09:11:22]  Loading plugin: streamer.dll
+[09:11:22] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[09:11:22]   Loaded.
+[09:11:22]  Loading plugin: sscanf.dll
+[09:11:22] 
+
+[09:11:22]  ===============================
+
+[09:11:22]       sscanf plugin loaded.     
+
+[09:11:22]          Version:  2.8.3        
+
+[09:11:22]   (c) 2018 Alex "Y_Less" Cole  
+
+[09:11:22]  ===============================
+
+[09:11:22]   Loaded.
+[09:11:22]  Loaded 3 plugins.
+
+[09:11:22] 
+[09:11:22] Filterscripts
+[09:11:22] ---------------
+[09:11:22]   Loaded 0 filterscripts.
+
+[09:11:22] No se pudo establecer la conexión a la base de datos del servidor samp.
+[09:11:22] 
+---------------------------------------
+[09:11:22] GM CREADA POR RUSSO - 06/10/22
+
+[09:11:22] ---------------------------------------
+
+[09:11:22] Number of vehicle models: 0
+[09:11:22] --- Server Shutting Down.
+[09:11:22] plugin.mysql: Unloading plugin...
+[09:11:22] plugin.mysql: Plugin unloaded.
+[09:11:22] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+[09:11:22] 
+
+[09:11:22]  ===============================
+
+[09:11:22]      sscanf plugin unloaded.    
+
+[09:11:22]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:12:03] 
+[09:12:03] Server Plugins
+[09:12:03] --------------
+[09:12:03]  Loading plugin: mysql.dll
+[09:12:03]  >> plugin.mysql: R41-4 successfully loaded.
+[09:12:03]   Loaded.
+[09:12:03]  Loading plugin: streamer.dll
+[09:12:03] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[09:12:03]   Loaded.
+[09:12:03]  Loading plugin: sscanf.dll
+[09:12:03] 
+
+[09:12:03]  ===============================
+
+[09:12:03]       sscanf plugin loaded.     
+
+[09:12:03]          Version:  2.8.3        
+
+[09:12:03]   (c) 2018 Alex "Y_Less" Cole  
+
+[09:12:03]  ===============================
+
+[09:12:03]   Loaded.
+[09:12:03]  Loaded 3 plugins.
+
+[09:12:03] 
+[09:12:03] Filterscripts
+[09:12:03] ---------------
+[09:12:03]   Loaded 0 filterscripts.
+
+[09:12:03] Conexión servidor samp MySQL con éxito.
+[09:12:03] 
+---------------------------------------
+[09:12:03] GM CREADA POR RUSSO - 06/10/22
+
+[09:12:03] ---------------------------------------
+
+[09:12:03] Number of vehicle models: 0
+[09:12:35] [connection] incoming connection: 127.0.0.1:50036 id: 0
+[09:12:35] [join] Ryan_Losteau has joined the server (0:127.0.0.1)
+[09:13:06] [part] Ryan_Losteau has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:18:10] 
+[09:18:10] Server Plugins
+[09:18:10] --------------
+[09:18:10]  Loading plugin: mysql.dll
+[09:18:11]  >> plugin.mysql: R41-4 successfully loaded.
+[09:18:11]   Loaded.
+[09:18:11]  Loading plugin: streamer.dll
+[09:18:11] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[09:18:11]   Loaded.
+[09:18:11]  Loading plugin: sscanf.dll
+[09:18:11] 
+
+[09:18:11]  ===============================
+
+[09:18:11]       sscanf plugin loaded.     
+
+[09:18:11]          Version:  2.8.3        
+
+[09:18:11]   (c) 2018 Alex "Y_Less" Cole  
+
+[09:18:11]  ===============================
+
+[09:18:11]   Loaded.
+[09:18:11]  Loaded 3 plugins.
+
+[09:18:11] 
+[09:18:11] Filterscripts
+[09:18:11] ---------------
+[09:18:11]   Loaded 0 filterscripts.
+
+[09:18:11] Conexión servidor samp MySQL con éxito.
+[09:18:11] 
+---------------------------------------
+[09:18:11] GM CREADA POR RUSSO - 06/10/22
+
+[09:18:11] ---------------------------------------
+
+[09:18:11] Number of vehicle models: 0
+[09:18:37] [connection] incoming connection: 127.0.0.1:56179 id: 0
+[09:18:37] [join] Ryan_Losteau has joined the server (0:127.0.0.1)
+[09:18:48] [part] Ryan_Losteau has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:20:04] 
+[09:20:04] Server Plugins
+[09:20:04] --------------
+[09:20:04]  Loading plugin: mysql.dll
+[09:20:04]  >> plugin.mysql: R41-4 successfully loaded.
+[09:20:04]   Loaded.
+[09:20:04]  Loading plugin: streamer.dll
+[09:20:04] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[09:20:04]   Loaded.
+[09:20:04]  Loading plugin: sscanf.dll
+[09:20:04] 
+
+[09:20:04]  ===============================
+
+[09:20:04]       sscanf plugin loaded.     
+
+[09:20:04]          Version:  2.8.3        
+
+[09:20:04]   (c) 2018 Alex "Y_Less" Cole  
+
+[09:20:04]  ===============================
+
+[09:20:04]   Loaded.
+[09:20:04]  Loaded 3 plugins.
+
+[09:20:04] 
+[09:20:04] Filterscripts
+[09:20:04] ---------------
+[09:20:04]   Loaded 0 filterscripts.
+
+[09:20:04] Conexión servidor samp MySQL con éxito.
+[09:20:04] 
+---------------------------------------
+[09:20:04] GM CREADA POR RUSSO - 06/10/22
+
+[09:20:04] ---------------------------------------
+
+[09:20:04] Number of vehicle models: 0
+[09:20:34] [connection] incoming connection: 127.0.0.1:56181 id: 0
+[09:20:34] [join] Ryan_Losteau has joined the server (0:127.0.0.1)
+[09:20:40] [part] Ryan_Losteau has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:21:06] 
+[09:21:06] Server Plugins
+[09:21:06] --------------
+[09:21:06]  Loading plugin: mysql.dll
+[09:21:06]  >> plugin.mysql: R41-4 successfully loaded.
+[09:21:06]   Loaded.
+[09:21:06]  Loading plugin: streamer.dll
+[09:21:06] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[09:21:06]   Loaded.
+[09:21:06]  Loading plugin: sscanf.dll
+[09:21:06] 
+
+[09:21:06]  ===============================
+
+[09:21:06]       sscanf plugin loaded.     
+
+[09:21:06]          Version:  2.8.3        
+
+[09:21:06]   (c) 2018 Alex "Y_Less" Cole  
+
+[09:21:06]  ===============================
+
+[09:21:06]   Loaded.
+[09:21:06]  Loaded 3 plugins.
+
+[09:21:06] 
+[09:21:06] Filterscripts
+[09:21:06] ---------------
+[09:21:06]   Loaded 0 filterscripts.
+
+[09:21:06] Conexión servidor samp MySQL con éxito.
+[09:21:06] 
+---------------------------------------
+[09:21:06] GM CREADA POR RUSSO - 06/10/22
+
+[09:21:06] ---------------------------------------
+
+[09:21:06] Number of vehicle models: 0
+[09:21:37] [connection] incoming connection: 127.0.0.1:56183 id: 0
+[09:21:37] [join] Ryan_Losteau has joined the server (0:127.0.0.1)
+[09:21:41] [part] Ryan_Losteau has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:32:21] 
+[09:32:21] Server Plugins
+[09:32:21] --------------
+[09:32:21]  Loading plugin: mysql.dll
+[09:32:21]  >> plugin.mysql: R41-4 successfully loaded.
+[09:32:21]   Loaded.
+[09:32:21]  Loading plugin: streamer.dll
+[09:32:21] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[09:32:21]   Loaded.
+[09:32:21]  Loading plugin: sscanf.dll
+[09:32:21] 
+
+[09:32:21]  ===============================
+
+[09:32:21]       sscanf plugin loaded.     
+
+[09:32:21]          Version:  2.8.3        
+
+[09:32:21]   (c) 2018 Alex "Y_Less" Cole  
+
+[09:32:21]  ===============================
+
+[09:32:21]   Loaded.
+[09:32:21]  Loaded 3 plugins.
+
+[09:32:22] 
+[09:32:22] Filterscripts
+[09:32:22] ---------------
+[09:32:22]   Loaded 0 filterscripts.
+
+[09:32:22] Conexión servidor samp MySQL con éxito.
+[09:32:22] 
+---------------------------------------
+[09:32:22] GM CREADA POR RUSSO - 06/10/22
+
+[09:32:22] ---------------------------------------
+
+[09:32:22] Number of vehicle models: 0
+[09:33:08] [connection] incoming connection: 127.0.0.1:51306 id: 0
+[09:33:08] [join] Ethan_Weasel has joined the server (0:127.0.0.1)
+[09:33:17] [part] Ethan_Weasel has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:34:05] 
+[09:34:05] Server Plugins
+[09:34:05] --------------
+[09:34:05]  Loading plugin: mysql.dll
+[09:34:05]  >> plugin.mysql: R41-4 successfully loaded.
+[09:34:05]   Loaded.
+[09:34:05]  Loading plugin: streamer.dll
+[09:34:05] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[09:34:05]   Loaded.
+[09:34:05]  Loading plugin: sscanf.dll
+[09:34:05] 
+
+[09:34:05]  ===============================
+
+[09:34:05]       sscanf plugin loaded.     
+
+[09:34:05]          Version:  2.8.3        
+
+[09:34:05]   (c) 2018 Alex "Y_Less" Cole  
+
+[09:34:05]  ===============================
+
+[09:34:05]   Loaded.
+[09:34:05]  Loaded 3 plugins.
+
+[09:34:05] 
+[09:34:05] Filterscripts
+[09:34:05] ---------------
+[09:34:05]   Loaded 0 filterscripts.
+
+[09:34:05] Conexión servidor samp MySQL con éxito.
+[09:34:05] 
+---------------------------------------
+[09:34:05] GM CREADA POR RUSSO - 06/10/22
+
+[09:34:05] ---------------------------------------
+
+[09:34:05] Number of vehicle models: 0
+[09:34:32] [connection] incoming connection: 127.0.0.1:50160 id: 0
+[09:34:32] [join] Ethan_Weasel has joined the server (0:127.0.0.1)
+[09:34:39] [part] Ethan_Weasel has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:44:10] 
+[09:44:10] Server Plugins
+[09:44:10] --------------
+[09:44:10]  Loading plugin: mysql.dll
+[09:44:10]  >> plugin.mysql: R41-4 successfully loaded.
+[09:44:10]   Loaded.
+[09:44:10]  Loading plugin: streamer.dll
+[09:44:10] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[09:44:10]   Loaded.
+[09:44:10]  Loading plugin: sscanf.dll
+[09:44:10] 
+
+[09:44:10]  ===============================
+
+[09:44:10]       sscanf plugin loaded.     
+
+[09:44:10]          Version:  2.8.3        
+
+[09:44:10]   (c) 2018 Alex "Y_Less" Cole  
+
+[09:44:10]  ===============================
+
+[09:44:10]   Loaded.
+[09:44:10]  Loaded 3 plugins.
+
+[09:44:10] 
+[09:44:10] Filterscripts
+[09:44:10] ---------------
+[09:44:10]   Loaded 0 filterscripts.
+
+[09:44:10] Conexión servidor samp MySQL con éxito.
+[09:44:10] 
+---------------------------------------
+[09:44:10] GM CREADA POR RUSSO - 06/10/22
+
+[09:44:10] ---------------------------------------
+
+[09:44:10] Number of vehicle models: 0
+[09:44:40] [connection] incoming connection: 127.0.0.1:52099 id: 0
+[09:44:40] [join] Ryan_Losteau has joined the server (0:127.0.0.1)
+[09:44:50] [part] Ryan_Losteau has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:03:51] 
+[17:03:51] Server Plugins
+[17:03:51] --------------
+[17:03:51]  Loading plugin: crashdetect
+[17:03:51]   CrashDetect plugin 4.21
+[17:03:51]   Loaded.
+[17:03:51]  Loading plugin: streamer
+[17:03:51] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[17:03:51]   Loaded.
+[17:03:51]  Loading plugin: mysql2
+[17:03:51]  >> plugin.mysql: R41-4 successfully loaded.
+[17:03:51]   Loaded.
+[17:03:51]  Loading plugin: sscanf
+[17:03:51] 
+[17:03:51]  ===============================
+[17:03:51] 
+[17:03:51]       sscanf plugin loaded.     
+[17:03:51] 
+[17:03:51]          Version: 2.13.8
+[17:03:51] 
+[17:03:51]    (c) 2022 Alex "Y_Less" Cole  
+[17:03:51] 
+[17:03:51]  ===============================
+[17:03:51] 
+[17:03:51]   Loaded.
+[17:03:51]  Loading plugin: pawncmd
+[17:03:51] [Pawn.CMD] plugin v3.4.0 loading...
+[17:03:51] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[17:03:51]   Loaded.
+[17:03:51]  Loading plugin: pawnraknet
+[17:03:51] [Pawn.RakNet] plugin v1.6.0 loading...
+[17:03:51] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.6.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 19:36:19
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/katursis/Pawn.RakNet/wiki
+
+[17:03:51]   Loaded.
+[17:03:51]  Loading plugin: pawnregex
+[17:03:51] [Pawn.Regex] plugin v1.2.3 loading...
+[17:03:51] [Pawn.Regex] 
+
+    | Pawn.Regex 1.2.3 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 11:59:38
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.Regex
+
+[17:03:51]   Loaded.
+[17:03:51]  Loading plugin: YSF
+[17:03:51] 
+[17:03:51]  ==============================================
+[17:03:51]  YSF 2.2 (compiled Sep 19 2021 13:01:03) loaded
+[17:03:51]   (c) 2008 Alex "Y_Less" Cole
+[17:03:51]   (c) 2010 - 2018 kurta999
+[17:03:51]   (c) 2018 - 2020 IllidanS4
+[17:03:51]  Server version: 0.3.7 R2-1 or R2-2, Windows
+[17:03:51]  ==============================================
+[17:03:51] 
+[17:03:51]   Loaded.
+[17:03:51]  Loaded 8 plugins.
+
+[17:03:51] 
+[17:03:51] Filterscripts
+[17:03:51] ---------------
+[17:03:51]   Loaded 0 filterscripts.
+
+[17:03:52] [debug] Long callback execution detected (hang or performance issue)
+[17:03:52] [debug] AMX backtrace:
+[17:03:52] [debug] #0 0000d78c in ?? (42097068, 42097064, 34912) in bare.amx
+[17:03:52] [debug] #1 0000dc30 in ?? (42099144, 34912) in bare.amx
+[17:03:52] [debug] #2 0000f610 in ?? () in bare.amx
+[17:03:52] [debug] #3 0000fc88 in public AMX_OnCodeInit () in bare.amx
+[17:03:52] [debug] #4 00001c20 in public Debug_OnCodeInit () in bare.amx
+[17:03:52] [debug] #5 0000160c in public ScriptInit_OnCodeInit () in bare.amx
+[17:03:52] [debug] #6 000007f0 in ?? (0, 0) in bare.amx
+[17:03:52] [debug] #7 00001278 in public OnGameModeInit () in bare.amx
+[17:03:52] ---- CONEXION INCORRECTA CON LA BASE DE DATOS ----
+[17:03:52] 
+---------------------------------------------
+[17:03:52] GM CREADA Y ACTUALIZADA POR ALAN BARRIONUEVO - 2024
+
+[17:03:52] -----------------------------------------------
+
+[17:03:52] Number of vehicle models: 0
+[17:03:52] --- Server Shutting Down.
+[17:03:52] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[17:03:52] plugin.mysql: Unloading plugin...
+[17:03:52] plugin.mysql: Plugin unloaded.
+[17:03:52] 
+[17:03:52]  ===============================
+[17:03:52] 
+[17:03:52]      sscanf plugin unloaded.    
+[17:03:52] 
+[17:03:52]  ===============================
+[17:03:52] 
+[17:03:52] [Pawn.CMD] plugin unloaded
+[17:03:52] [Pawn.RakNet] plugin unloaded
+[17:03:52] [Pawn.Regex] plugin unloaded
+[17:03:52]  YSF 2.2 unloaded
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:04:41] 
+[17:04:41] Server Plugins
+[17:04:41] --------------
+[17:04:41]  Loading plugin: crashdetect
+[17:04:41]   CrashDetect plugin 4.21
+[17:04:41]   Loaded.
+[17:04:41]  Loading plugin: streamer
+[17:04:41] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[17:04:41]   Loaded.
+[17:04:41]  Loading plugin: mysql2
+[17:04:41]  >> plugin.mysql: R41-4 successfully loaded.
+[17:04:41]   Loaded.
+[17:04:41]  Loading plugin: sscanf
+[17:04:41] 
+[17:04:41]  ===============================
+[17:04:41] 
+[17:04:41]       sscanf plugin loaded.     
+[17:04:41] 
+[17:04:41]          Version: 2.13.8
+[17:04:41] 
+[17:04:41]    (c) 2022 Alex "Y_Less" Cole  
+[17:04:41] 
+[17:04:41]  ===============================
+[17:04:41] 
+[17:04:41]   Loaded.
+[17:04:41]  Loading plugin: pawncmd
+[17:04:41] [Pawn.CMD] plugin v3.4.0 loading...
+[17:04:41] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[17:04:41]   Loaded.
+[17:04:41]  Loading plugin: pawnraknet
+[17:04:41] [Pawn.RakNet] plugin v1.6.0 loading...
+[17:04:41] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.6.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 19:36:19
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/katursis/Pawn.RakNet/wiki
+
+[17:04:41]   Loaded.
+[17:04:41]  Loading plugin: pawnregex
+[17:04:41] [Pawn.Regex] plugin v1.2.3 loading...
+[17:04:41] [Pawn.Regex] 
+
+    | Pawn.Regex 1.2.3 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 11:59:38
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.Regex
+
+[17:04:41]   Loaded.
+[17:04:41]  Loading plugin: YSF
+[17:04:41] 
+[17:04:41]  ==============================================
+[17:04:41]  YSF 2.2 (compiled Sep 19 2021 13:01:03) loaded
+[17:04:41]   (c) 2008 Alex "Y_Less" Cole
+[17:04:41]   (c) 2010 - 2018 kurta999
+[17:04:41]   (c) 2018 - 2020 IllidanS4
+[17:04:41]  Server version: 0.3.7 R2-1 or R2-2, Windows
+[17:04:41]  ==============================================
+[17:04:41] 
+[17:04:41]   Loaded.
+[17:04:41]  Loaded 8 plugins.
+
+[17:04:41] 
+[17:04:41] Filterscripts
+[17:04:41] ---------------
+[17:04:41]   Loaded 0 filterscripts.
+
+[17:04:41] [debug] Long callback execution detected (hang or performance issue)
+[17:04:41] [debug] AMX backtrace:
+[17:04:41] [debug] #0 0000c3a4 in ?? (45, 42097076, 42097808, 42097808, 42099176, 42097072) in bare.amx
+[17:04:41] [debug] #1 0000de7c in ?? (42099176, 34912) in bare.amx
+[17:04:41] [debug] #2 0000f610 in ?? () in bare.amx
+[17:04:41] [debug] #3 0000fc88 in public AMX_OnCodeInit () in bare.amx
+[17:04:41] [debug] #4 00001c20 in public Debug_OnCodeInit () in bare.amx
+[17:04:41] [debug] #5 0000160c in public ScriptInit_OnCodeInit () in bare.amx
+[17:04:41] [debug] #6 000007f0 in ?? (0, 0) in bare.amx
+[17:04:41] [debug] #7 00001278 in public OnGameModeInit () in bare.amx
+[17:04:41] ---- CONEXION CORRECTA CON LA BASE DE DATOS -  2024 -----
+[17:04:41] 
+---------------------------------------------
+[17:04:41] GM CREADA Y ACTUALIZADA POR ALAN BARRIONUEVO - 2024
+
+[17:04:41] -----------------------------------------------
+
+[17:04:41] Number of vehicle models: 0
+[17:06:02] [connection] incoming connection: 127.0.0.1:54479 id: 0
+[17:06:02] [join] Alaan_Barrionuevo has joined the server (0:127.0.0.1)
+[17:06:02] [debug] Run time error 6: "Invalid instruction"
+[17:06:02] [debug]  Unknown opcode 0x0 at address 0x00000004
+[17:06:02] [debug] AMX backtrace:
+[17:06:02] [debug] #0 00000004 in public VerificarUsuario () in bare.amx
+[17:06:10] [debug] Run time error 6: "Invalid instruction"
+[17:06:10] [debug]  Unknown opcode 0x0 at address 0x00000004
+[17:06:10] [debug] AMX backtrace:
+[17:06:10] [debug] #0 00000004 in public IngresoJugador () in bare.amx
+[17:06:10] [debug] Run time error 4: "Array index out of bounds"
+[17:06:10] [debug]  Attempted to read/write array element at index 65535 in array of size 1000
+[17:06:10] [debug] AMX backtrace:
+[17:06:10] [debug] #0 000277ac in public OnPlayerDeath (0, 65535, 255) in bare.amx
+[17:06:19] [part] Alaan_Barrionuevo has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:08:38] 
+[17:08:38] Server Plugins
+[17:08:38] --------------
+[17:08:38]  Loading plugin: crashdetect
+[17:08:38]   CrashDetect plugin 4.21
+[17:08:38]   Loaded.
+[17:08:38]  Loading plugin: streamer
+[17:08:38] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[17:08:38]   Loaded.
+[17:08:38]  Loading plugin: mysql2
+[17:08:38]  >> plugin.mysql: R41-4 successfully loaded.
+[17:08:38]   Loaded.
+[17:08:38]  Loading plugin: sscanf
+[17:08:38] 
+[17:08:38]  ===============================
+[17:08:38] 
+[17:08:38]       sscanf plugin loaded.     
+[17:08:38] 
+[17:08:38]          Version: 2.13.8
+[17:08:38] 
+[17:08:38]    (c) 2022 Alex "Y_Less" Cole  
+[17:08:38] 
+[17:08:38]  ===============================
+[17:08:38] 
+[17:08:38]   Loaded.
+[17:08:38]  Loading plugin: pawncmd
+[17:08:38] [Pawn.CMD] plugin v3.4.0 loading...
+[17:08:38] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[17:08:38]   Loaded.
+[17:08:38]  Loading plugin: pawnraknet
+[17:08:38] [Pawn.RakNet] plugin v1.6.0 loading...
+[17:08:38] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.6.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 19:36:19
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/katursis/Pawn.RakNet/wiki
+
+[17:08:38]   Loaded.
+[17:08:38]  Loading plugin: pawnregex
+[17:08:38] [Pawn.Regex] plugin v1.2.3 loading...
+[17:08:38] [Pawn.Regex] 
+
+    | Pawn.Regex 1.2.3 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 11:59:38
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.Regex
+
+[17:08:38]   Loaded.
+[17:08:38]  Loading plugin: YSF
+[17:08:38] 
+[17:08:38]  ==============================================
+[17:08:38]  YSF 2.2 (compiled Sep 19 2021 13:01:03) loaded
+[17:08:38]   (c) 2008 Alex "Y_Less" Cole
+[17:08:38]   (c) 2010 - 2018 kurta999
+[17:08:38]   (c) 2018 - 2020 IllidanS4
+[17:08:38]  Server version: 0.3.7 R2-1 or R2-2, Windows
+[17:08:38]  ==============================================
+[17:08:38] 
+[17:08:38]   Loaded.
+[17:08:38]  Loaded 8 plugins.
+
+[17:08:38] 
+[17:08:38] Filterscripts
+[17:08:38] ---------------
+[17:08:38]   Loaded 0 filterscripts.
+
+[17:08:38] [debug] Long callback execution detected (hang or performance issue)
+[17:08:38] [debug] AMX backtrace:
+[17:08:38] [debug] #0 0000c3b8 in ?? (45, 42097084, 42098500, 42098500, 42099184, 42097080) in bare.amx
+[17:08:38] [debug] #1 0000de7c in ?? (42099184, 34912) in bare.amx
+[17:08:38] [debug] #2 0000f610 in ?? () in bare.amx
+[17:08:38] [debug] #3 0000fc88 in public AMX_OnCodeInit () in bare.amx
+[17:08:38] [debug] #4 00001c20 in public Debug_OnCodeInit () in bare.amx
+[17:08:38] [debug] #5 0000160c in public ScriptInit_OnCodeInit () in bare.amx
+[17:08:38] [debug] #6 000007f0 in ?? (0, 0) in bare.amx
+[17:08:38] [debug] #7 00001278 in public OnGameModeInit () in bare.amx
+[17:08:39] ---- CONEXION CORRECTA CON LA BASE DE DATOS -  2024 -----
+[17:08:39] 
+---------------------------------------------
+[17:08:39] GM CREADA Y ACTUALIZADA POR ALAN BARRIONUEVO - 2024
+
+[17:08:39] -----------------------------------------------
+
+[17:08:39] Number of vehicle models: 0
+[17:09:03] [connection] incoming connection: 127.0.0.1:55583 id: 0
+[17:09:04] [join] Nit_Samp has joined the server (0:127.0.0.1)
+[17:09:04] [debug] Run time error 6: "Invalid instruction"
+[17:09:04] [debug]  Unknown opcode 0x0 at address 0x00000004
+[17:09:04] [debug] AMX backtrace:
+[17:09:04] [debug] #0 00000004 in public VerificarUsuario () in bare.amx
+[17:09:13] [debug] Run time error 6: "Invalid instruction"
+[17:09:13] [debug]  Unknown opcode 0x0 at address 0x00000004
+[17:09:13] [debug] AMX backtrace:
+[17:09:13] [debug] #0 00000004 in public IngresoJugador () in bare.amx
+[17:09:13] [debug] Run time error 4: "Array index out of bounds"
+[17:09:13] [debug]  Attempted to read/write array element at index 65535 in array of size 1000
+[17:09:13] [debug] AMX backtrace:
+[17:09:13] [debug] #0 000277ac in public OnPlayerDeath (0, 65535, 255) in bare.amx
+[17:09:15] [part] Nit_Samp has left the server (0:1)
